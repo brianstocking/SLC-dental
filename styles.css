@@ -40,6 +40,7 @@ html, body{
 }
 
 .logo{
+  padding: 2% 0 0 0 ;
   float: left;
 }
 
@@ -59,4 +60,7 @@ a{
   margin: 0 auto;
   background: url(http://www.slcdentalcenter.com/wp-content/uploads/Salt-Lake-City-Dentist-Great-Staff.png);
   background-size: 100% 100%;
+}
+.about{
+float: left;
 }
