@@ -1,0 +1,62 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background: #003F73;
+}
+.top{
+  height: 5%;
+  width: 100%;
+  background: #004E8E;
+  font-size: 10px;
+}
+.up{
+  display:inline-block;
+  color: white;
+  font-family: sans-serif;
+}
+
+.social{
+  display: inline-block;
+  padding: 0 0 0 2%;
+}
+
+.phone{
+  margin: 0 4%;
+  padding: 0 5%;
+}
+
+
+.container{
+  width: 90%;
+  height: 90%;
+  margin: 0 auto;
+  background: white;
+}
+
+.upper{
+  height: 20%;
+  width: 100%;
+}
+
+.logo{
+  float: left;
+}
+
+a{
+  text-decoration: none;
+  font-size: 23px;
+  font-family: sans-serif;
+}
+.links{
+  display: inline-block;
+  margin: 5% 0 0 2%;
+}
+
+.jumbotron{
+  height: 60%;
+  width: 90%;
+  margin: 0 auto;
+  background: url(http://www.slcdentalcenter.com/wp-content/uploads/Salt-Lake-City-Dentist-Great-Staff.png);
+  background-size: 100% 100%;
+}
